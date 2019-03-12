@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
 
-   // Edit Test
+   // Edit Test_ffa
 	QApplication a(argc, argv);
 	GitTest w;
 	w.show();
